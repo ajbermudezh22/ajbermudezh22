@@ -16,7 +16,7 @@
 - 🔬 **Master's Thesis:** Built a hybrid **GraphRAG** system for the analysis of large codebases using Python and Neo4j.
 - 💻 Honing my deep systems programming and algorithmic skills (C/C++) at **[42 Berlin](https://42berlin.de/)**.
 - 🧠 I specialize in **AI Engineering** (Agents, RAG) and **Fullstack Development** (React, Node.js, MongoDB).
-- 📫 How to reach me: **[Insert your LinkedIn link here]**
+- 📫 How to reach me: https://www.linkedin.com/in/alberto-bermudez-ds-ml/
 
 ---
 
