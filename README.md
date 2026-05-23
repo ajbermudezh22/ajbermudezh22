@@ -1,40 +1,169 @@
+<!-- HEADER -->
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Founding+AI+Engineer+@+Tekkr;M.Sc.+Computer+Engineering+@+TU+Berlin;AI+%26+GraphRAG+Specialist;42+Berlin+Student)
 
-  <p align="center">
-    Building scalable AI applications, intelligent agents, and robust fullstack systems.
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=720&lines=Founding+AI+Engineer+%40+Tekkr;Building+agentic+systems+%26+GraphRAG;M.Sc.+Computer+Engineering+%40+TU+Berlin;42+Berlin+%E2%80%A2+Berlin%2C+Germany)
+
+  <p>
+    <img src="https://img.shields.io/badge/role-Founding%20AI%20Engineer-38B2AC?style=flat-square" />
+    <img src="https://img.shields.io/badge/company-Tekkr-1A1A1A?style=flat-square" />
+    <img src="https://img.shields.io/badge/M.Sc.-TU%20Berlin-C50E1F?style=flat-square" />
+    <img src="https://img.shields.io/badge/student-42%20Berlin-000000?style=flat-square" />
+    <a href="https://www.linkedin.com/in/alberto-bermudez-ds-ml/">
+      <img src="https://img.shields.io/badge/LinkedIn-Alberto%20Berm%C3%BAdez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
   </p>
+
+  <img src="https://komarev.com/ghpvc/?username=ajbermudezh22&style=flat-square&color=38B2AC&label=profile+views" alt="profile views" />
+
 </div>
 
 ---
 
-### 🚀 About Me
+### 👋 About me
 
-- 🔭 I’m currently working as a **Founding AI Engineer at Tekkr**.
-- 🎓 **M.Sc. in Computer Engineering** from **TU Berlin**, specializing in Machine Learning and Data Science.
-- 🔬 **Master's Thesis:** Built a hybrid **GraphRAG** system for the analysis of large codebases using Python and Neo4j.
-- 💻 Honing my deep systems programming and algorithmic skills (C/C++) at **[42 Berlin](https://42berlin.de/)**.
-- 🧠 I specialize in **AI Engineering** (Agents, RAG) and **Fullstack Development** (React, Node.js, MongoDB).
-- 📫 How to reach me: https://www.linkedin.com/in/alberto-bermudez-ds-ml/
+I'm Alberto — **Founding AI Engineer at [Tekkr](https://tekkr.io)**, building agentic systems and developer-facing AI. I wrote my **M.Sc. thesis at TU Berlin** on a hybrid **GraphRAG** system for analyzing large codebases (Python + Neo4j), and I'm sharpening my systems and algorithms chops at **[42 Berlin](https://42berlin.de/)**.
+
+My range — production AI, fullstack delivery, and low-level systems — is deliberate. I like the stack from the silicon to the agent.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🚀 Featured Work
 
-**AI, Data Science & ML** <br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-**Fullstack Development** <br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Systems & Core** <br>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 GraphRAG for Codebases</h3>
+      <p><b>M.Sc. Thesis · TU Berlin</b></p>
+      <p>A hybrid <b>GraphRAG</b> system for understanding large codebases. Combines vector retrieval with a Neo4j knowledge graph of code structure to answer architectural questions an LLM alone can't.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Tekkr</h3>
+      <p><b>Founding AI Engineer</b></p>
+      <p>Building agentic systems for developer workflows. Production AI infra — agents, retrieval, evals — shipped to real users.</p>
+      <p>
+        <a href="https://tekkr.io">→ tekkr.io</a><br/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agents-38B2AC?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 TrivAI</h3>
+      <p><b>42 Berlin · Transcendence</b></p>
+      <p>Multiplayer AI-powered trivia game. Upload study material, the AI generates quizzes, you compete in real time. Realtime multiplayer + LLM pipeline + auth, end-to-end.</p>
+      <p>
+        <a href="https://github.com/TrivAI-Multiplayer-game-to-study">→ Repo</a><br/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 NextWatch</h3>
+      <p><b>Personal project</b></p>
+      <p>An app that recommends movies and TV shows worth your evening. Personalised picks, no doomscrolling. Live and growing.</p>
+      <p>
+        <a href="https://next-watch-frontend.vercel.app/">→ Try it live</a><br/>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI%20Recs-EE4C2C?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Language Distribution
+### 🛠 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,react,nodejs,mongodb,tailwind,c,cpp,neo4j,docker,linux,git,vim&perline=8" />
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td><b>🎯 Proficient</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔬 Experienced</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>🌱 Currently sharpening</b></td>
+    <td>Systems programming (42 cursus) · Agent infra at scale · Eval pipelines</td>
+  </tr>
+  <tr>
+    <td><b>🧰 Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajbermudezh22&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook,html" alt="Top Languages" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajbermudezh22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=445" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ajbermudezh22&theme=tokyonight&hide_border=true" />
+
 </div>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=ajbermudezh22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+
+</div>
+
+<p align="center"><sub><i>Most of my code lives in private repos — at Tekkr, in my thesis, and at 42 Berlin. The proficiency table above is the honest view of the stack.</i></sub></p>
+
+---
+
+### 🐍 Contribution graph
+
+<div align="center">
+
+  ![snake gif](https://raw.githubusercontent.com/ajbermudezh22/ajbermudezh22/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+### 📫 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/alberto-bermudez-ds-ml/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ajbermudezh22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
