@@ -21,7 +21,7 @@
 
 ### 👋 About me
 
-I'm Alberto — **Founding AI Engineer at [Tekkr](https://tekkr.io)**, building agentic systems and developer-facing AI. I wrote my **M.Sc. thesis at TU Berlin** on a hybrid **GraphRAG** system for analyzing large codebases (Python + Neo4j), and I'm sharpening my systems and algorithms chops at **[42 Berlin](https://42berlin.de/)**.
+I'm Alberto — **Founding AI Engineer at [Tekkr](https://tekkr.io)**, building agentic systems and developer-facing AI. I built **[codescope](https://github.com/ajbermudezh22/codescope)** — an open-source agentic GraphRAG for Python codebases — as the public continuation of my **M.Sc. thesis at TU Berlin** (in collaboration with Siemens Mobility, grade 1.3 / sehr gut). I'm also sharpening my systems and algorithms chops at **[42 Berlin](https://42berlin.de/)**.
 
 My range — production AI, fullstack delivery, and low-level systems — is deliberate. I like the stack from the silicon to the agent.
 
@@ -32,13 +32,16 @@ My range — production AI, fullstack delivery, and low-level systems — is del
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 GraphRAG for Codebases</h3>
-      <p><b>M.Sc. Thesis · TU Berlin</b></p>
-      <p>A hybrid <b>GraphRAG</b> system for understanding large codebases. Combines vector retrieval with a Neo4j knowledge graph of code structure to answer architectural questions an LLM alone can't.</p>
+      <h3>🧠 codescope</h3>
+      <p><b>Open-source agentic GraphRAG · continuation of my M.Sc. thesis</b></p>
+      <p>Chat with a Python codebase. <b>SCIP-precise</b> symbol graphs + a bounded agent loop with a live tool-trace UI. <b>13/20</b> on a hand-written 20-question fastapi eval (gpt-5), with zero confidently-wrong answers across four iterations.</p>
       <p>
+        <a href="https://github.com/ajbermudezh22/codescope">→ Repo & eval</a><br/>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Kuzu-1A1A1A?style=flat-square" />
+        <img src="https://img.shields.io/badge/LanceDB-1A1A1A?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -113,6 +116,9 @@ My range — production AI, fullstack delivery, and low-level systems — is del
       <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+      <img src="https://img.shields.io/badge/Kuzu-1A1A1A?style=flat-square" />
+      <img src="https://img.shields.io/badge/LanceDB-1A1A1A?style=flat-square" />
+      <img src="https://img.shields.io/badge/SCIP-1A1A1A?style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -147,7 +153,6 @@ My range — production AI, fullstack delivery, and low-level systems — is del
 
 </div>
 
-<p align="center"><sub><i>Most of my code lives in private repos — at Tekkr, in my thesis, and at 42 Berlin. The proficiency table above is the honest view of the stack.</i></sub></p>
 
 ---
 
@@ -156,6 +161,8 @@ My range — production AI, fullstack delivery, and low-level systems — is del
 <div align="center">
 
   ![snake gif](https://raw.githubusercontent.com/ajbermudezh22/ajbermudezh22/output/github-contribution-grid-snake-dark.svg)
+
+  <sub><i>The snake only nibbles <b>public</b> commits. Most of my code lives in private repos — at <b>Tekkr</b>, in my <b>M.Sc. thesis at Siemens Mobility</b>, and at <b>42 Berlin</b> — so this graph understates the real work.</i></sub>
 
 </div>
 
