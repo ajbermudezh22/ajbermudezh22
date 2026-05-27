@@ -8,6 +8,9 @@
     <img src="https://img.shields.io/badge/company-Tekkr-1A1A1A?style=flat-square" />
     <img src="https://img.shields.io/badge/M.Sc.-TU%20Berlin-C50E1F?style=flat-square" />
     <img src="https://img.shields.io/badge/student-42%20Berlin-000000?style=flat-square" />
+    <a href="https://portfolio-umber-three-p9irg3ofz9.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20site-38B2AC?style=flat-square&logo=vercel&logoColor=white" />
+    </a>
     <a href="https://www.linkedin.com/in/alberto-bermudez-ds-ml/">
       <img src="https://img.shields.io/badge/LinkedIn-Alberto%20Berm%C3%BAdez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
@@ -32,6 +35,17 @@ My range — production AI, fullstack delivery, and low-level systems — is del
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>⚡ Tekkr</h3>
+      <p><b>Founding AI Engineer</b></p>
+      <p>Building agentic systems for developer workflows. Production AI infra — agents, retrieval, evals — shipped to real users.</p>
+      <p>
+        <a href="https://tekkr.io">→ tekkr.io</a><br/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agents-38B2AC?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🧠 codescope</h3>
       <p><b>Open-source agentic GraphRAG · continuation of my M.Sc. thesis</b></p>
       <p>Chat with a Python codebase. <b>SCIP-precise</b> symbol graphs + a bounded agent loop with a live tool-trace UI. <b>13/20</b> on a hand-written 20-question fastapi eval (gpt-5), with zero confidently-wrong answers across four iterations.</p>
@@ -42,17 +56,6 @@ My range — production AI, fullstack delivery, and low-level systems — is del
         <img src="https://img.shields.io/badge/LanceDB-1A1A1A?style=flat-square" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Tekkr</h3>
-      <p><b>Founding AI Engineer</b></p>
-      <p>Building agentic systems for developer workflows. Production AI infra — agents, retrieval, evals — shipped to real users.</p>
-      <p>
-        <a href="https://tekkr.io">→ tekkr.io</a><br/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Agents-38B2AC?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -171,6 +174,7 @@ My range — production AI, fullstack delivery, and low-level systems — is del
 ### 📫 Connect
 
 <p align="center">
+  <a href="https://portfolio-umber-three-p9irg3ofz9.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/alberto-bermudez-ds-ml/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ajbermudezh22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
