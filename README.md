@@ -24,6 +24,8 @@
 
 ### 👋 About me
 
+🌐 **Portfolio: [portfolio-umber-three-p9irg3ofz9.vercel.app](https://portfolio-umber-three-p9irg3ofz9.vercel.app)**
+
 I'm Alberto — **Founding AI Engineer at [Tekkr](https://tekkr.io)**, building agentic systems and developer-facing AI. I built **[codescope](https://github.com/ajbermudezh22/codescope)** — an open-source agentic GraphRAG for Python codebases — as the public continuation of my **M.Sc. thesis at TU Berlin** (in collaboration with Siemens Mobility, grade 1.3 / sehr gut). I'm also sharpening my systems and algorithms chops at **[42 Berlin](https://42berlin.de/)**.
 
 My range — production AI, fullstack delivery, and low-level systems — is deliberate. I like the stack from the silicon to the agent.
@@ -145,14 +147,14 @@ My range — production AI, fullstack delivery, and low-level systems — is del
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajbermudezh22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=445" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ajbermudezh22&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ajbermudezh22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=445" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=ajbermudezh22&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ajbermudezh22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajbermudezh22&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=445" />
 
 </div>
 
