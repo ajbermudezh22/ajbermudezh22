@@ -32,6 +32,28 @@ My range — production AI, fullstack delivery, and low-level systems — is del
 
 ---
 
+### 🔥 Fresh off the keyboard
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🤖 pr-review-agent</h4>
+      <p>Async PR review agent: FastAPI job queue, raw GitHub REST + Anthropic Messages API (no SDKs, on purpose), hand-built Alpine container, one-script orchestration.</p>
+      <p><a href="https://github.com/ajbermudezh22/pr-review-agent">→ Repo</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📊 agent-model-bench</h4>
+      <p>Which model should power your agent? Tool-calling + strict-JSON benchmark with hallucination traps, cost &amp; latency. Live report on Pages.</p>
+      <p><a href="https://ajbermudezh22.github.io/agent-model-bench/">→ Live report</a> · <a href="https://github.com/ajbermudezh22/agent-model-bench">repo</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🔬 codescope-slm</h4>
+      <p>Distilled an agent's query-planning step into a 1.5B (MLX LoRA on an M5, execution-verified synthetic data) — and published the honest ablation: the SLM matches claude-opus-5; the step itself was the wrong target.</p>
+      <p><a href="https://github.com/ajbermudezh22/codescope-slm">→ Repo &amp; model card</a></p>
+    </td>
+  </tr>
+</table>
+
 ### 🚀 Featured Work
 
 <table>
@@ -50,7 +72,7 @@ My range — production AI, fullstack delivery, and low-level systems — is del
     <td width="50%" valign="top">
       <h3>🧠 codescope</h3>
       <p><b>Open-source agentic GraphRAG · continuation of my M.Sc. thesis</b></p>
-      <p>Chat with a Python codebase. <b>SCIP-precise</b> symbol graphs + a bounded agent loop with a live tool-trace UI. <b>13/20</b> on a hand-written 20-question fastapi eval (gpt-5), with zero confidently-wrong answers across four iterations.</p>
+      <p>Chat with a Python codebase. <b>SCIP-precise</b> symbol graphs + a bounded agent loop with a live tool-trace UI. <b>19/20</b> on a hand-written 20-question fastapi eval (claude-opus-5, v5) vs <b>9/20</b> for a same-model naive-RAG ablation — the delta is the symbol graph + agent loop. Zero confidently-wrong answers across five iterations.</p>
       <p>
         <a href="https://github.com/ajbermudezh22/codescope">→ Repo & eval</a><br/>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
