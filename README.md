@@ -48,7 +48,7 @@ My range — production AI, fullstack delivery, and low-level systems — is del
     </td>
     <td width="33%" valign="top">
       <h4>🔬 codescope-slm</h4>
-      <p>Distilled an agent's query-planning step into a 1.5B (MLX LoRA on an M5, execution-verified synthetic data) — and published the honest ablation: the SLM matches claude-opus-5; the step itself was the wrong target.</p>
+      <p>Two-chapter distillation study: a 1.5B planner (MLX LoRA, execution-verified data) that first exposed a corpus-recall ceiling, then — after the ceiling was lifted — retrained in 4 min to hit 19/20, matching claude-opus-5 at 3.4× lower latency, on-device.</p>
       <p><a href="https://github.com/ajbermudezh22/codescope-slm">→ Repo &amp; model card</a></p>
     </td>
   </tr>
@@ -72,7 +72,7 @@ My range — production AI, fullstack delivery, and low-level systems — is del
     <td width="50%" valign="top">
       <h3>🧠 codescope</h3>
       <p><b>Open-source agentic GraphRAG · continuation of my M.Sc. thesis</b></p>
-      <p>Chat with a Python codebase. <b>SCIP-precise</b> symbol graphs + a bounded agent loop with a live tool-trace UI. <b>19/20</b> on a hand-written 20-question fastapi eval (claude-opus-5, v5) vs <b>9/20</b> for a same-model naive-RAG ablation — the delta is the symbol graph + agent loop. Zero confidently-wrong answers across five iterations.</p>
+      <p>Chat with a Python codebase. <b>SCIP-precise</b> symbol graphs + a bounded agent loop with a live tool-trace UI. <b>20/20</b> on a hand-written fastapi eval (v6: measured the retrieval ceiling with a same-model ablation — 10/20 targets indexed — then lifted it with LLM-synthesized docs). Naive RAG: 10→18. Zero confidently-wrong answers across six iterations.</p>
       <p>
         <a href="https://github.com/ajbermudezh22/codescope">→ Repo & eval</a><br/>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
