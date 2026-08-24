@@ -54,6 +54,11 @@ My range — production AI, fullstack delivery, and low-level systems — is del
   </tr>
 </table>
 
+<p><b>Plus three focused microlibraries</b> —
+<a href="https://github.com/ajbermudezh22/jsonfence">jsonfence</a> (recover JSON from LLM output — born from an agent-model-bench finding) ·
+<a href="https://github.com/ajbermudezh22/healthwatch">healthwatch</a> (uptime + TLS-cert-expiry monitoring for cron/CI) ·
+<a href="https://github.com/ajbermudezh22/agentlens">agentlens</a> (zero-dep cost/latency tracing for agent loops)</p>
+
 ### 🚀 Featured Work
 
 <table>
