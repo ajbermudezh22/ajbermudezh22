@@ -54,6 +54,11 @@ My range — production AI, fullstack delivery, and low-level systems — is del
   </tr>
 </table>
 
+<p><b>Three medium builds</b> —
+<a href="https://github.com/ajbermudezh22/intentgate">intentgate</a> (MLOps pipeline where the model must earn its deploy: eval-gated promotion, Prometheus serving, PSI drift alerts — demonstrated live) ·
+<a href="https://github.com/ajbermudezh22/duraq">duraq</a> (durable SQLite job queue: exactly-once claiming, retries, DLQ — zero deps) ·
+<a href="https://github.com/ajbermudezh22/codescope-deploy">codescope-deploy</a> (Traefik + Prometheus + Grafana-as-code + k6 + Terraform + runbook, with real bring-up incidents documented)</p>
+
 <p><b>Plus three focused microlibraries</b> —
 <a href="https://github.com/ajbermudezh22/jsonfence">jsonfence</a> (recover JSON from LLM output — born from an agent-model-bench finding) ·
 <a href="https://github.com/ajbermudezh22/healthwatch">healthwatch</a> (uptime + TLS-cert-expiry monitoring for cron/CI) ·
