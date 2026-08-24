@@ -24,7 +24,8 @@
 
 ### 👋 About me
 
-🌐 **Portfolio: [portfolio-umber-three-p9irg3ofz9.vercel.app](https://portfolio-umber-three-p9irg3ofz9.vercel.app)**
+🌐 **Portfolio: [https://portfolio-alberto-bermudez.vercel.app](https://portfolio-alberto-bermudez.vercel.app)**
+[portfolio-umber-three-p9irg3ofz9.vercel.app](https://portfolio-umber-three-p9irg3ofz9.vercel.app)**
 
 I'm Alberto — **Founding AI Engineer at [Tekkr](https://tekkr.io)**, building agentic systems and developer-facing AI. I built **[codescope](https://github.com/ajbermudezh22/codescope)** — an open-source agentic GraphRAG for Python codebases — as the public continuation of my **M.Sc. thesis at TU Berlin** (in collaboration with Siemens Mobility, grade 1.3 / sehr gut). I'm also sharpening my systems and algorithms chops at **[42 Berlin](https://42berlin.de/)**.
 
