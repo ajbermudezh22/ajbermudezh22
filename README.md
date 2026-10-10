@@ -186,7 +186,6 @@ My range (production AI, fullstack delivery and low-level systems) is deliberate
 <div align="center">
 
   <img height="170" src="https://github-readme-stats-ajb.vercel.app/api?username=ajbermudezh22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=445&cache_bust=1" />
-  <img height="170" src="https://github-readme-streak-stats-ajb.vercel.app/?user=ajbermudezh22&theme=tokyonight&hide_border=true" />
 
 </div>
 
