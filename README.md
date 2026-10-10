@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=720&lines=AI+Engineer+%40+WaveSix;Agentic+AI+%26+Multi-Agent+Systems;RAG+%26+Knowledge+Graphs;M.Sc.+Computer+Engineering+(ML+%26+AI)+%40+TU+Berlin;42+Berlin+%E2%80%A2+Berlin%2C+Germany)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=720&lines=AI+Engineer+%40+WaveSix;Agentic+AI+%26+Multi-Agent+Systems;RAG+%26+Knowledge+Graphs;M.Sc.+Computer+Engineering+%28ML+%26+AI%29+%40+TU+Berlin;42+Berlin+%E2%80%A2+Berlin%2C+Germany)
 
   <p>
     <img src="https://img.shields.io/badge/role-AI%20Engineer-38B2AC?style=flat-square" />
