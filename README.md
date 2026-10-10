@@ -1,11 +1,11 @@
 <!-- HEADER -->
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=720&lines=Founding+AI+Engineer+%40+Tekkr;Building+agentic+systems+%26+GraphRAG;M.Sc.+Computer+Engineering+%40+TU+Berlin;42+Berlin+%E2%80%A2+Berlin%2C+Germany)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=720&lines=AI+Engineer+%40+WaveSix;Agentic+AI+%26+Multi-Agent+Systems;RAG+%26+Knowledge+Graphs;M.Sc.+Computer+Engineering+%40+TU+Berlin;42+Berlin+%E2%80%A2+Berlin%2C+Germany)
 
   <p>
-    <img src="https://img.shields.io/badge/role-Founding%20AI%20Engineer-38B2AC?style=flat-square" />
-    <img src="https://img.shields.io/badge/company-Tekkr-1A1A1A?style=flat-square" />
+    <img src="https://img.shields.io/badge/role-AI%20Engineer-38B2AC?style=flat-square" />
+    <img src="https://img.shields.io/badge/company-WaveSix-1A1A1A?style=flat-square" />
     <img src="https://img.shields.io/badge/M.Sc.-TU%20Berlin-C50E1F?style=flat-square" />
     <img src="https://img.shields.io/badge/student-42%20Berlin-000000?style=flat-square" />
     <a href="https://portfolio-umber-three-p9irg3ofz9.vercel.app/">
@@ -26,7 +26,13 @@
 
 🌐 **Portfolio: [https://portfolio-alberto-bermudez.vercel.app](https://portfolio-alberto-bermudez.vercel.app)**
 
-I'm Alberto — **Founding AI Engineer at [Tekkr](https://tekkr.io)**, building agentic systems and developer-facing AI. I built **[codescope](https://github.com/ajbermudezh22/codescope)** — an open-source agentic GraphRAG for Python codebases — as the public continuation of my **M.Sc. thesis at TU Berlin** (in collaboration with Siemens Mobility, grade 1.3 / sehr gut). I'm also sharpening my systems and algorithms chops at **[42 Berlin](https://42berlin.de/)**.
+I'm Alberto — **AI Engineer at [WaveSix](https://wavesix.ai)**, a German AI transformation & product studio taking enterprises from AI strategy to shipped product across insurance, retail, manufacturing, pharma and more. I build full-stack, end-to-end AI solutions: agentic and multi-agent systems that automate real business processes, RAG and knowledge graphs grounded in company data, and the reliability, observability and EU AI Act compliance that make them hold up in production.
+
+Alongside client work, I'm **building an internal product at WaveSix from the ground up** — so I'm still a builder at heart: owning a product end to end, from first commit to real users.
+
+Most AI engineers reach for an LLM first. I don't. I start with the problem and work backwards to the simplest system that solves it — sometimes a multi-agent workflow, sometimes a knowledge graph, sometimes a classical ML model that runs in milliseconds and costs almost nothing.
+
+Before WaveSix, I was **Founding AI Engineer at Tekkr**, where I built an AI governance platform used by Parloa and Orbem. I built **[codescope](https://github.com/ajbermudezh22/codescope)** — an open-source agentic GraphRAG for Python codebases — as the public continuation of my **M.Sc. thesis at TU Berlin** (in collaboration with Siemens Mobility, grade 1.3 / sehr gut). I'm also sharpening my systems and algorithms chops at **[42 Berlin](https://42berlin.de/)**.
 
 My range — production AI, fullstack delivery, and low-level systems — is deliberate. I like the stack from the silicon to the agent.
 
@@ -69,14 +75,16 @@ My range — production AI, fullstack delivery, and low-level systems — is del
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Tekkr</h3>
-      <p><b>Founding AI Engineer</b></p>
-      <p>Building agentic systems for developer workflows. Production AI infra — agents, retrieval, evals — shipped to real users.</p>
+      <h3>🌊 WaveSix</h3>
+      <p><b>AI Engineer · Oct 2026 – present · Berlin</b></p>
+      <p>End-to-end AI for enterprises, from discovery and rapid prototyping to production: agentic workflows with reliable failure handling, RAG &amp; knowledge graphs evaluated for accuracy rather than demo appeal, and integrations into the tools clients already use. Also building an internal WaveSix product from scratch.</p>
       <p>
-        <a href="https://tekkr.io">→ tekkr.io</a><br/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <a href="https://wavesix.ai">→ wavesix.ai</a><br/>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Agents-38B2AC?style=flat-square" />
+        <img src="https://img.shields.io/badge/RAG%20%26%20KGs-1A1A1A?style=flat-square" />
+        <img src="https://img.shields.io/badge/EU%20AI%20Act-003399?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -199,7 +207,7 @@ My range — production AI, fullstack delivery, and low-level systems — is del
 
   ![snake gif](https://raw.githubusercontent.com/ajbermudezh22/ajbermudezh22/output/github-contribution-grid-snake-dark.svg)
 
-  <sub><i>The snake only nibbles <b>public</b> commits. Most of my code lives in private repos — at <b>Tekkr</b>, in my <b>M.Sc. thesis at Siemens Mobility</b>, and at <b>42 Berlin</b> — so this graph understates the real work.</i></sub>
+  <sub><i>The snake only nibbles <b>public</b> commits. Most of my code lives in private repos — at <b>WaveSix</b>, previously at <b>Tekkr</b>, in my <b>M.Sc. thesis at Siemens Mobility</b>, and at <b>42 Berlin</b> — so this graph understates the real work.</i></sub>
 
 </div>
 
