@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/company-WaveSix-1A1A1A?style=flat-square" />
     <img src="https://img.shields.io/badge/M.Sc.-TU%20Berlin-C50E1F?style=flat-square" />
     <img src="https://img.shields.io/badge/student-42%20Berlin-000000?style=flat-square" />
-    <a href="https://portfolio-umber-three-p9irg3ofz9.vercel.app/">
+    <a href="https://portfolio-alberto-bermudez.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20site-38B2AC?style=flat-square&logo=vercel&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/alberto-bermudez-ds-ml/">
@@ -205,7 +205,7 @@ My range (production AI, fullstack delivery and low-level systems) is deliberate
 ### 📫 Connect
 
 <p align="center">
-  <a href="https://portfolio-umber-three-p9irg3ofz9.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://portfolio-alberto-bermudez.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/alberto-bermudez-ds-ml/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/ajbermudezh22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
