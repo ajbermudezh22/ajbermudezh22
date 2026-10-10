@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=720&lines=AI+Engineer+%40+WaveSix;Agentic+AI+%26+Multi-Agent+Systems;RAG+%26+Knowledge+Graphs;M.Sc.+Computer+Engineering+%28ML+%26+AI%29+%40+TU+Berlin;42+Berlin+%E2%80%A2+Berlin%2C+Germany)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=820&lines=AI+Engineer+%40+WaveSix;Agentic+AI+%26+Multi-Agent+Systems;RAG+%26+Knowledge+Graphs;M.Sc.+Computer+Engineering+%28ML+%26+AI%29+%40+TU+Berlin;42+Berlin+%E2%80%A2+Berlin%2C+Germany)
 
   <p>
     <img src="https://img.shields.io/badge/role-AI%20Engineer-38B2AC?style=flat-square" />
@@ -16,8 +16,6 @@
     </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=ajbermudezh22&style=flat-square&color=38B2AC&label=profile+views" alt="profile views" />
-
 </div>
 
 ---
@@ -26,15 +24,15 @@
 
 🌐 **Portfolio: [https://portfolio-alberto-bermudez.vercel.app](https://portfolio-alberto-bermudez.vercel.app)**
 
-I'm Alberto — **AI Engineer at [WaveSix](https://wavesix.ai)**, a German AI transformation & product studio taking enterprises from AI strategy to shipped product across insurance, retail, manufacturing, pharma and more. I build full-stack, end-to-end AI solutions: agentic and multi-agent systems that automate real business processes, RAG and knowledge graphs grounded in company data, and the reliability, observability and EU AI Act compliance that make them hold up in production.
+I'm Alberto, **AI Engineer at [WaveSix](https://wavesix.ai)**, a German AI transformation & product studio taking enterprises from AI strategy to shipped product across insurance, retail, manufacturing, pharma and more. I build full-stack, end-to-end AI solutions: agentic and multi-agent systems that automate real business processes, RAG and knowledge graphs grounded in company data, and the reliability, observability and EU AI Act compliance that make them hold up in production.
 
-Alongside client work, I'm **building an internal product at WaveSix from the ground up** — so I'm still a builder at heart: owning a product end to end, from first commit to real users.
+Alongside client work, I'm **building an internal product at WaveSix from the ground up**, so I'm still a builder at heart: owning a product end to end, from first commit to real users.
 
-Most AI engineers reach for an LLM first. I don't. I start with the problem and work backwards to the simplest system that solves it — sometimes a multi-agent workflow, sometimes a knowledge graph, sometimes a classical ML model that runs in milliseconds and costs almost nothing.
+Most AI engineers reach for an LLM first. I don't. I start with the problem and work backwards to the simplest system that solves it. Sometimes that's a multi-agent workflow, sometimes a knowledge graph, sometimes a classical ML model that runs in milliseconds and costs almost nothing.
 
-Before WaveSix, I was **Founding AI Engineer at Tekkr**, where I built an AI governance platform used by Parloa and Orbem. I built **[codescope](https://github.com/ajbermudezh22/codescope)** — an open-source agentic GraphRAG for Python codebases — as the public continuation of my **M.Sc. thesis at TU Berlin** (in collaboration with Siemens Mobility, grade 1.3 / sehr gut). I'm also sharpening my systems and algorithms chops at **[42 Berlin](https://42berlin.de/)**.
+Before WaveSix, I was **Founding AI Engineer at Tekkr**, where I built an AI governance platform used by Parloa and Orbem. I built **[codescope](https://github.com/ajbermudezh22/codescope)**, an open-source agentic GraphRAG for Python codebases, as the public continuation of my **M.Sc. thesis at TU Berlin** (in collaboration with Siemens Mobility, grade 1.3 / sehr gut). I'm also sharpening my systems and algorithms chops at **[42 Berlin](https://42berlin.de/)**.
 
-My range — production AI, fullstack delivery, and low-level systems — is deliberate. I like the stack from the silicon to the agent.
+My range (production AI, fullstack delivery and low-level systems) is deliberate. I like the stack from the silicon to the agent.
 
 ---
 
@@ -54,19 +52,19 @@ My range — production AI, fullstack delivery, and low-level systems — is del
     </td>
     <td width="33%" valign="top">
       <h4>🔬 codescope-slm</h4>
-      <p>Two-chapter distillation study: a 1.5B planner (MLX LoRA, execution-verified data) that first exposed a corpus-recall ceiling, then — after the ceiling was lifted — retrained in 4 min to hit 19/20, matching claude-opus-5 at 3.4× lower latency, on-device.</p>
+      <p>Two-chapter distillation study: a 1.5B planner (MLX LoRA, execution-verified data) that first exposed a corpus-recall ceiling, then, once the ceiling was lifted, retrained in 4 min to hit 19/20, matching claude-opus-5 at 3.4× lower latency, on-device.</p>
       <p><a href="https://github.com/ajbermudezh22/codescope-slm">→ Repo &amp; model card</a></p>
     </td>
   </tr>
 </table>
 
-<p><b>Three medium builds</b> —
-<a href="https://github.com/ajbermudezh22/intentgate">intentgate</a> (MLOps pipeline where the model must earn its deploy: eval-gated promotion, Prometheus serving, PSI drift alerts — demonstrated live) ·
-<a href="https://github.com/ajbermudezh22/duraq">duraq</a> (durable SQLite job queue: exactly-once claiming, retries, DLQ — zero deps) ·
+<p><b>Three medium builds:</b>
+<a href="https://github.com/ajbermudezh22/intentgate">intentgate</a> (MLOps pipeline where the model must earn its deploy: eval-gated promotion, Prometheus serving, PSI drift alerts, demonstrated live) ·
+<a href="https://github.com/ajbermudezh22/duraq">duraq</a> (durable SQLite job queue: exactly-once claiming, retries, DLQ, zero deps) ·
 <a href="https://github.com/ajbermudezh22/codescope-deploy">codescope-deploy</a> (Traefik + Prometheus + Grafana-as-code + k6 + Terraform + runbook, with real bring-up incidents documented)</p>
 
-<p><b>Plus three focused microlibraries</b> —
-<a href="https://github.com/ajbermudezh22/jsonfence">jsonfence</a> (recover JSON from LLM output — born from an agent-model-bench finding) ·
+<p><b>Plus three focused microlibraries:</b>
+<a href="https://github.com/ajbermudezh22/jsonfence">jsonfence</a> (recover JSON from LLM output, born from an agent-model-bench finding) ·
 <a href="https://github.com/ajbermudezh22/healthwatch">healthwatch</a> (uptime + TLS-cert-expiry monitoring for cron/CI) ·
 <a href="https://github.com/ajbermudezh22/agentlens">agentlens</a> (zero-dep cost/latency tracing for agent loops)</p>
 
@@ -90,7 +88,7 @@ My range — production AI, fullstack delivery, and low-level systems — is del
     <td width="50%" valign="top">
       <h3>🧠 codescope</h3>
       <p><b>Open-source agentic GraphRAG · continuation of my M.Sc. thesis</b></p>
-      <p>Chat with a Python codebase. <b>SCIP-precise</b> symbol graphs + a bounded agent loop with a live tool-trace UI. <b>20/20</b> on a hand-written fastapi eval (v6: measured the retrieval ceiling with a same-model ablation — 10/20 targets indexed — then lifted it with LLM-synthesized docs). Naive RAG: 10→18. Zero confidently-wrong answers across six iterations.</p>
+      <p>Chat with a Python codebase. <b>SCIP-precise</b> symbol graphs + a bounded agent loop with a live tool-trace UI. <b>20/20</b> on a hand-written fastapi eval (v6: measured the retrieval ceiling with a same-model ablation (10/20 targets indexed), then lifted it with LLM-synthesized docs). Naive RAG: 10→18. Zero confidently-wrong answers across six iterations.</p>
       <p>
         <a href="https://github.com/ajbermudezh22/codescope">→ Repo & eval</a><br/>
         <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
@@ -133,7 +131,7 @@ My range — production AI, fullstack delivery, and low-level systems — is del
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,react,nodejs,mongodb,tailwind,c,cpp,neo4j,docker,linux,git,vim&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,ts,react,nodejs,mongodb,tailwind,c,cpp,fastapi,docker,linux,git,vim&perline=8" />
   </a>
 </p>
 
@@ -196,22 +194,14 @@ My range — production AI, fullstack delivery, and low-level systems — is del
 
   <img height="170" src="https://github-readme-stats-ajb.vercel.app/api/top-langs/?username=ajbermudezh22&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&card_width=445&cache_bust=1" />
 
+  <br/>
+  <sub><i>These stats only count this account. My day-to-day work at <b>WaveSix</b> lives on a separate company GitHub account, and much of the rest is in private repos (Tekkr, my M.Sc. thesis at Siemens Mobility, 42 Berlin).</i></sub>
+
 </div>
 
 
 ---
 
-### 🐍 Contribution graph
-
-<div align="center">
-
-  ![snake gif](https://raw.githubusercontent.com/ajbermudezh22/ajbermudezh22/output/github-contribution-grid-snake-dark.svg)
-
-  <sub><i>The snake only nibbles <b>public</b> commits. Most of my code lives in private repos — at <b>WaveSix</b>, previously at <b>Tekkr</b>, in my <b>M.Sc. thesis at Siemens Mobility</b>, and at <b>42 Berlin</b> — so this graph understates the real work.</i></sub>
-
-</div>
-
----
 
 ### 📫 Connect
 
